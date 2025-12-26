@@ -1,0 +1,12 @@
+django
+djangorestframework
+gunicorn
+whitenoise
+scikit-learn
+numpy
+joblib
+nltk
+PyPDF2
+python-pptx
+requests
+yt-dlp

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+staticfiles/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp / runtime
+tmp_audio/
+*.tmp
+*.wav
+*.webm
+*.mp3
+
+# Virtual env
+venv/
+.env

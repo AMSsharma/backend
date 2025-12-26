@@ -1,0 +1,1883 @@
+[
+  {
+    "topic": "Basic Algebra",
+    "keywords": ["algebra basics", "solving equations", "linear equations", "algebra for beginners", "simple algebra", "algebraic expressions", "intro to algebra", "basic math algebra", "elementary algebra", "algebra fundamentals"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Advanced Algebra",
+    "keywords": ["advanced algebra", "polynomial equations", "complex algebra", "algebraic structures", "higher algebra", "advanced algebraic methods", "college algebra", "intermediate algebra", "algebra 2", "polynomial functions"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Calculus I",
+    "keywords": ["calculus basics", "introduction to calculus", "derivatives", "limits", "differential calculus", "calc 1", "single variable calculus", "intro calculus", "basic calculus", "calculus fundamentals"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Calculus II",
+    "keywords": ["integration", "integral calculus", "calc 2", "techniques of integration", "series and sequences", "advanced integration", "calculus 2", "definite integrals", "applications of integration", "integration methods"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Multivariable Calculus",
+    "keywords": ["multivariable calculus", "calc 3", "partial derivatives", "multiple integrals", "vector calculus", "calculus 3", "multidimensional calculus", "functions of several variables", "double integrals", "triple integrals"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Trigonometry",
+    "keywords": ["trigonometry", "trig functions", "sine cosine tangent", "trig identities", "trigonometric equations", "basic trig", "intro to trigonometry", "triangle geometry", "angles and trig", "trig basics"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Probability Theory",
+    "keywords": ["probability", "probability theory", "basic probability", "probability distributions", "random variables", "intro to probability", "probability fundamentals", "calculating probability", "probability concepts", "chance and probability"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Statistics",
+    "keywords": ["statistics", "statistical analysis", "descriptive statistics", "inferential statistics", "stats basics", "statistical methods", "intro to statistics", "data analysis statistics", "basic statistics", "statistics fundamentals"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Linear Algebra",
+    "keywords": ["linear algebra", "matrices", "vectors", "matrix operations", "eigenvalues", "eigenvectors", "linear transformations", "vector spaces", "linear algebra basics", "matrix algebra"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Differential Equations",
+    "keywords": ["differential equations", "odes", "ordinary differential equations", "solving differential equations", "diff eq", "differential equation methods", "first order differential equations", "second order differential equations", "de solutions", "differential calculus equations"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Partial Differential Equations",
+    "keywords": ["partial differential equations", "pdes", "pde solutions", "wave equation", "heat equation", "advanced differential equations", "multivariable differential equations", "partial derivatives equations", "pde methods", "boundary value problems"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Optimization",
+    "keywords": ["optimization", "mathematical optimization", "convex optimization", "optimization algorithms", "linear programming", "nonlinear optimization", "optimization methods", "optimization techniques", "constrained optimization", "optimization theory"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Number Theory",
+    "keywords": ["number theory", "prime numbers", "divisibility", "modular arithmetic", "number theory basics", "elementary number theory", "integers and primes", "number systems", "cryptography number theory", "diophantine equations"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Topology",
+    "keywords": ["topology", "topological spaces", "algebraic topology", "general topology", "point set topology", "geometric topology", "topology basics", "continuous functions topology", "topological properties", "topology theory"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Real Analysis",
+    "keywords": ["real analysis", "mathematical analysis", "rigorous calculus", "limits and continuity analysis", "real numbers theory", "sequences and series analysis", "advanced calculus", "analysis proofs", "metric spaces", "real analysis fundamentals"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Complex Analysis",
+    "keywords": ["complex analysis", "complex variables", "complex numbers", "analytic functions", "contour integration", "complex function theory", "residue theorem", "complex calculus", "holomorphic functions", "complex plane"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Abstract Algebra",
+    "keywords": ["abstract algebra", "group theory", "ring theory", "field theory", "algebraic structures", "modern algebra", "abstract algebraic systems", "groups rings fields", "galois theory", "advanced algebra theory"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Discrete Mathematics",
+    "keywords": ["discrete math", "discrete mathematics", "combinatorics", "graph theory", "discrete structures", "logic and proofs", "discrete math basics", "counting principles", "discrete probability", "set theory basics"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Programming Basics",
+    "keywords": ["programming basics", "intro to programming", "learn to code", "programming fundamentals", "coding for beginners", "basic programming", "introduction to coding", "programming 101", "first programming course", "how to program"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Python Programming",
+    "keywords": ["python", "python programming", "learn python", "python basics", "python tutorial", "python coding", "python for beginners", "intro to python", "python fundamentals", "python language"],
+    "difficulty": 3
+  },
+  {
+    "topic": "JavaScript Programming",
+    "keywords": ["javascript", "js programming", "javascript basics", "learn javascript", "javascript tutorial", "intro to javascript", "javascript fundamentals", "javascript coding", "js for beginners", "javascript language"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Java Programming",
+    "keywords": ["java", "java programming", "learn java", "java basics", "java tutorial", "intro to java", "java fundamentals", "java coding", "java for beginners", "java language"],
+    "difficulty": 4
+  },
+  {
+    "topic": "C++ Programming",
+    "keywords": ["c++", "c++ programming", "cpp", "learn c++", "c++ basics", "c++ tutorial", "intro to c++", "c++ fundamentals", "c++ coding", "c plus plus"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Object-Oriented Programming",
+    "keywords": ["oop", "object oriented programming", "oop concepts", "classes and objects", "oop principles", "object oriented design", "oop basics", "encapsulation inheritance polymorphism", "oop tutorial", "object oriented paradigm"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Data Structures",
+    "keywords": ["data structures", "arrays lists trees", "data structure basics", "linked lists", "stacks and queues", "hash tables", "data structures fundamentals", "basic data structures", "data structure implementation", "data organization"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Algorithms",
+    "keywords": ["algorithms", "algorithm design", "sorting algorithms", "searching algorithms", "algorithm analysis", "algorithmic thinking", "algorithms and complexity", "algorithm basics", "computational algorithms", "algorithm fundamentals"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Advanced Algorithms",
+    "keywords": ["advanced algorithms", "dynamic programming", "greedy algorithms", "graph algorithms", "algorithm optimization", "divide and conquer", "algorithm complexity analysis", "advanced algorithm techniques", "computational complexity", "np completeness"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Machine Learning",
+    "keywords": ["machine learning", "ml basics", "intro to machine learning", "supervised learning", "unsupervised learning", "ml algorithms", "machine learning fundamentals", "predictive modeling", "ml models", "learn machine learning"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Deep Learning",
+    "keywords": ["deep learning", "neural networks", "deep neural networks", "dl basics", "intro to deep learning", "deep learning fundamentals", "artificial neural networks", "backpropagation", "deep learning models", "learn deep learning"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Natural Language Processing",
+    "keywords": ["nlp", "natural language processing", "text processing", "language models", "nlp basics", "computational linguistics", "text analysis", "nlp techniques", "language understanding", "nlp fundamentals"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Computer Vision",
+    "keywords": ["computer vision", "image processing", "cv basics", "visual recognition", "image analysis", "computer vision fundamentals", "object detection", "image classification", "visual computing", "cv techniques"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "keywords": ["reinforcement learning", "rl", "q learning", "policy gradients", "rl basics", "reward based learning", "agent based learning", "rl algorithms", "reinforcement learning fundamentals", "markov decision processes"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Quantum Computing",
+    "keywords": ["quantum computing", "quantum algorithms", "qubits", "quantum information", "quantum computation", "quantum computing basics", "quantum mechanics computing", "quantum gates", "quantum programming", "intro to quantum computing"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Cybersecurity",
+    "keywords": ["cybersecurity", "information security", "network security", "cyber security basics", "ethical hacking", "security fundamentals", "infosec", "computer security", "cybersecurity principles", "security practices"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Cryptography",
+    "keywords": ["cryptography", "encryption", "cryptographic algorithms", "crypto basics", "encryption techniques", "cryptography fundamentals", "secure communication", "cryptographic protocols", "public key cryptography", "cryptanalysis"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Web Development",
+    "keywords": ["web development", "web dev", "building websites", "frontend development", "backend development", "full stack development", "web programming", "web design and development", "website creation", "learn web development"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Frontend Development",
+    "keywords": ["frontend", "frontend development", "html css javascript", "ui development", "web frontend", "client side development", "frontend programming", "responsive web design", "frontend basics", "user interface development"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Backend Development",
+    "keywords": ["backend", "backend development", "server side programming", "backend programming", "api development", "server development", "backend basics", "backend systems", "backend architecture", "server side development"],
+    "difficulty": 5
+  },
+  {
+    "topic": "React Development",
+    "keywords": ["react", "reactjs", "react js", "react development", "learn react", "react tutorial", "react basics", "react components", "react framework", "react programming"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Mobile App Development",
+    "keywords": ["mobile app development", "app development", "ios development", "android development", "mobile programming", "app creation", "smartphone apps", "mobile development basics", "building mobile apps", "mobile app design"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Database Management",
+    "keywords": ["databases", "database management", "dbms", "database basics", "sql databases", "database systems", "data storage", "database design", "database fundamentals", "intro to databases"],
+    "difficulty": 4
+  },
+  {
+    "topic": "SQL",
+    "keywords": ["sql", "structured query language", "sql basics", "sql queries", "learn sql", "sql tutorial", "database queries", "sql fundamentals", "sql programming", "relational databases sql"],
+    "difficulty": 3
+  },
+  {
+    "topic": "NoSQL Databases",
+    "keywords": ["nosql", "nosql databases", "mongodb", "document databases", "non relational databases", "nosql basics", "distributed databases", "nosql systems", "nosql vs sql", "modern databases"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Operating Systems",
+    "keywords": ["operating systems", "os", "operating system basics", "os concepts", "system software", "os fundamentals", "computer operating systems", "os design", "process management", "memory management"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Computer Networks",
+    "keywords": ["computer networks", "networking", "network basics", "network protocols", "tcp ip", "internet protocols", "networking fundamentals", "computer networking", "network architecture", "network systems"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Distributed Systems",
+    "keywords": ["distributed systems", "distributed computing", "distributed architecture", "scalable systems", "distributed systems design", "cloud computing", "distributed algorithms", "distributed databases", "microservices", "distributed systems basics"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Cloud Computing",
+    "keywords": ["cloud computing", "cloud services", "aws", "azure", "cloud platforms", "cloud infrastructure", "cloud basics", "cloud technology", "cloud deployment", "cloud architecture"],
+    "difficulty": 5
+  },
+  {
+    "topic": "DevOps",
+    "keywords": ["devops", "dev ops", "continuous integration", "continuous deployment", "ci cd", "devops practices", "devops tools", "devops basics", "devops methodology", "devops fundamentals"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Software Engineering",
+    "keywords": ["software engineering", "software development", "sdlc", "software design", "software engineering principles", "software development lifecycle", "software architecture", "software engineering basics", "engineering practices", "software methodology"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Agile Methodology",
+    "keywords": ["agile", "agile methodology", "scrum", "agile development", "agile practices", "agile principles", "agile framework", "agile project management", "agile basics", "agile software development"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Version Control",
+    "keywords": ["version control", "git", "github", "version control systems", "git basics", "source control", "git tutorial", "repository management", "version management", "git fundamentals"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Classical Mechanics",
+    "keywords": ["classical mechanics", "newtonian mechanics", "mechanics", "physics mechanics", "motion and forces", "mechanics basics", "kinematics", "dynamics", "mechanics fundamentals", "intro to mechanics"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Quantum Mechanics",
+    "keywords": ["quantum mechanics", "quantum physics", "qm", "quantum theory", "wave particle duality", "quantum mechanics basics", "intro to quantum mechanics", "quantum systems", "quantum fundamentals", "quantum mechanics principles"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Thermodynamics",
+    "keywords": ["thermodynamics", "heat and energy", "thermodynamic laws", "thermal physics", "thermodynamics basics", "statistical thermodynamics", "energy transfer", "thermodynamic systems", "thermodynamics fundamentals", "heat engines"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Electromagnetism",
+    "keywords": ["electromagnetism", "electricity and magnetism", "em theory", "electromagnetic fields", "maxwell equations", "electromagnetism basics", "em fundamentals", "electric fields", "magnetic fields", "electromagnetic theory"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Optics",
+    "keywords": ["optics", "light and optics", "wave optics", "geometric optics", "optical physics", "optics basics", "light properties", "reflection refraction", "optical systems", "optics fundamentals"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Special Relativity",
+    "keywords": ["special relativity", "relativity theory", "einstein relativity", "spacetime", "time dilation", "length contraction", "special relativity basics", "relativistic physics", "relativity fundamentals", "intro to relativity"],
+    "difficulty": 7
+  },
+  {
+    "topic": "General Relativity",
+    "keywords": ["general relativity", "gravitational theory", "curved spacetime", "einstein field equations", "general relativity basics", "gravity and spacetime", "gr physics", "relativistic gravity", "general relativity theory", "advanced relativity"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Astrophysics",
+    "keywords": ["astrophysics", "astronomy physics", "stellar physics", "cosmology", "astrophysics basics", "space physics", "astronomical objects", "astrophysical phenomena", "stars and galaxies", "astrophysics fundamentals"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Fluid Dynamics",
+    "keywords": ["fluid dynamics", "fluid mechanics", "hydrodynamics", "aerodynamics", "fluid flow", "fluid dynamics basics", "fluid physics", "viscous flow", "fluid dynamics fundamentals", "fluid motion"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Solid State Physics",
+    "keywords": ["solid state physics", "condensed matter physics", "crystal structure", "solid state theory", "materials physics", "solid state basics", "electronic properties", "lattice dynamics", "solid state fundamentals", "crystalline solids"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Nuclear Physics",
+    "keywords": ["nuclear physics", "atomic nucleus", "nuclear reactions", "radioactivity", "nuclear structure", "nuclear physics basics", "nuclear energy", "particle interactions", "nuclear theory", "nuclear fundamentals"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Particle Physics",
+    "keywords": ["particle physics", "elementary particles", "high energy physics", "standard model", "particle interactions", "particle physics basics", "subatomic particles", "quantum field theory", "particle physics fundamentals", "fundamental particles"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Electrical Engineering",
+    "keywords": ["electrical engineering", "electrical circuits", "circuit analysis", "electrical systems", "ee basics", "electrical engineering fundamentals", "electric circuits", "electrical principles", "intro to electrical engineering", "power systems"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Circuit Theory",
+    "keywords": ["circuit theory", "electric circuits", "circuit analysis", "circuit design", "circuit fundamentals", "electrical circuit theory", "circuit basics", "ac dc circuits", "circuit principles", "circuit components"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Control Systems",
+    "keywords": ["control systems", "control theory", "feedback systems", "automatic control", "control engineering", "control systems basics", "system control", "pid control", "control systems fundamentals", "control design"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Signal Processing",
+    "keywords": ["signal processing", "digital signal processing", "dsp", "signals and systems", "signal analysis", "signal processing basics", "signal theory", "signal processing fundamentals", "fourier analysis", "signal filtering"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Mechanical Engineering",
+    "keywords": ["mechanical engineering", "mechanics engineering", "mechanical systems", "mechanical design", "mechanical engineering basics", "engineering mechanics", "mechanical fundamentals", "intro to mechanical engineering", "mechanical principles", "machine design"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Materials Science",
+    "keywords": ["materials science", "material properties", "materials engineering", "material structure", "materials science basics", "engineering materials", "material behavior", "materials fundamentals", "material selection", "material characterization"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Organic Chemistry",
+    "keywords": ["organic chemistry", "carbon compounds", "organic reactions", "organic chem", "hydrocarbons", "organic chemistry basics", "organic molecules", "organic synthesis", "organic chemistry fundamentals", "intro to organic chemistry"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Inorganic Chemistry",
+    "keywords": ["inorganic chemistry", "inorganic compounds", "metal chemistry", "coordination chemistry", "inorganic chem", "inorganic chemistry basics", "inorganic molecules", "inorganic reactions", "inorganic fundamentals", "transition metals"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Physical Chemistry",
+    "keywords": ["physical chemistry", "chemical physics", "thermochemistry", "chemical kinetics", "physical chem", "physical chemistry basics", "quantum chemistry", "physical chemistry fundamentals", "molecular structure", "chemical thermodynamics"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Biochemistry",
+    "keywords": ["biochemistry", "biological chemistry", "molecular biology chemistry", "metabolic pathways", "biochemistry basics", "biomolecules", "protein chemistry", "biochemistry fundamentals", "cellular biochemistry", "enzyme chemistry"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Analytical Chemistry",
+    "keywords": ["analytical chemistry", "chemical analysis", "quantitative analysis", "analytical techniques", "analytical chem", "analytical chemistry basics", "instrumental analysis", "analytical methods", "chemical testing", "analytical fundamentals"],
+    "difficulty": 5
+  },
+  {
+    "topic": "General Chemistry",
+    "keywords": ["general chemistry", "chemistry basics", "intro to chemistry", "basic chemistry", "chemistry fundamentals", "chemistry 101", "general chem", "elementary chemistry", "chemistry principles", "foundational chemistry"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Cell Biology",
+    "keywords": ["cell biology", "cellular biology", "cell structure", "cell function", "cell biology basics", "cellular processes", "cell theory", "cell biology fundamentals", "intro to cell biology", "cellular organization"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Molecular Biology",
+    "keywords": ["molecular biology", "dna rna", "gene expression", "molecular genetics", "molecular biology basics", "molecular mechanisms", "molecular biology fundamentals", "nucleic acids", "protein synthesis", "molecular processes"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Genetics",
+    "keywords": ["genetics", "heredity", "genes", "genetic inheritance", "genetics basics", "mendelian genetics", "genetic variation", "genetics fundamentals", "intro to genetics", "genetic principles"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Microbiology",
+    "keywords": ["microbiology", "microorganisms", "bacteria viruses", "microbial biology", "microbiology basics", "microbes", "microbiology fundamentals", "intro to microbiology", "microbial life", "bacteriology"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Immunology",
+    "keywords": ["immunology", "immune system", "immunity", "immunological response", "immunology basics", "immune defense", "immunology fundamentals", "adaptive immunity", "innate immunity", "antibodies"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Physiology",
+    "keywords": ["physiology", "human physiology", "body functions", "physiological processes", "physiology basics", "organ systems", "physiology fundamentals", "intro to physiology", "body systems", "physiological mechanisms"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Anatomy",
+    "keywords": ["anatomy", "human anatomy", "body structure", "anatomical structure", "anatomy basics", "gross anatomy", "anatomy fundamentals", "intro to anatomy", "body organization", "anatomical systems"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Neuroscience",
+    "keywords": ["neuroscience", "brain science", "nervous system", "neural systems", "neuroscience basics", "neurobiology", "cognitive neuroscience", "neuroscience fundamentals", "brain function", "neural mechanisms"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Ecology",
+    "keywords": ["ecology", "environmental biology", "ecosystems", "ecological systems", "ecology basics", "population ecology", "ecology fundamentals", "intro to ecology", "ecological interactions", "environmental science"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Evolution",
+    "keywords": ["evolution", "evolutionary biology", "natural selection", "evolutionary theory", "evolution basics", "darwinian evolution", "evolution fundamentals", "intro to evolution", "evolutionary processes", "species evolution"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Botany",
+    "keywords": ["botany", "plant biology", "plant science", "plant structure", "botany basics", "plant physiology", "botany fundamentals", "intro to botany", "plant life", "botanical studies"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Zoology",
+    "keywords": ["zoology", "animal biology", "animal science", "animal behavior", "zoology basics", "animal diversity", "zoology fundamentals", "intro to zoology", "animal life", "animal systems"],
+    "difficulty": 4
+  },
+  {
+    "topic": "World History",
+    "keywords": ["world history", "global history", "history of civilizations", "historical events", "world history basics", "international history", "history fundamentals", "intro to history", "human history", "historical periods"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Ancient History",
+    "keywords": ["ancient history", "ancient civilizations", "classical history", "ancient world", "ancient history basics", "ancient cultures", "greco roman history", "ancient mesopotamia", "ancient egypt", "classical antiquity"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Modern History",
+    "keywords": ["modern history", "contemporary history", "20th century history", "modern era", "modern history basics", "recent history", "modern world history", "industrial revolution", "world wars", "modern civilizations"],
+    "difficulty": 4
+  },
+  {
+    "topic": "American History",
+    "keywords": ["american history", "us history", "united states history", "american historical events", "american history basics", "us historical periods", "american revolution", "civil war", "american politics history", "us development"],
+    "difficulty": 3
+  },
+  {
+    "topic": "European History",
+    "keywords": ["european history", "history of europe", "european civilizations", "european historical events", "european history basics", "medieval europe", "renaissance", "european wars", "european politics history", "european development"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Political Science",
+    "keywords": ["political science", "politics", "government", "political theory", "political science basics", "political systems", "political science fundamentals", "intro to political science", "political institutions", "governance"],
+    "difficulty": 4
+  },
+  {
+    "topic": "International Relations",
+    "keywords": ["international relations", "global politics", "ir theory", "foreign policy", "international relations basics", "world politics", "diplomacy", "international affairs", "international relations fundamentals", "geopolitics"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Economics",
+    "keywords": ["economics", "economic theory", "microeconomics", "macroeconomics", "economics basics", "economic principles", "economics fundamentals", "intro to economics", "economic systems", "economic analysis"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Microeconomics",
+    "keywords": ["microeconomics", "micro economics", "consumer behavior", "market structures", "microeconomics basics", "supply and demand", "price theory", "microeconomic analysis", "individual economics", "microeconomics fundamentals"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Macroeconomics",
+    "keywords": ["macroeconomics", "macro economics", "national economy", "gdp inflation", "macroeconomics basics", "economic growth", "fiscal policy", "monetary policy", "macroeconomic analysis", "aggregate economics"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Sociology",
+    "keywords": ["sociology", "social science", "society", "social structures", "sociology basics", "social behavior", "sociology fundamentals", "intro to sociology", "social institutions", "sociological theory"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Psychology",
+    "keywords": ["psychology", "psychological science", "human behavior", "mental processes", "psychology basics", "psychological theory", "psychology fundamentals", "intro to psychology", "behavior and mind", "psychological concepts"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Cognitive Psychology",
+    "keywords": ["cognitive psychology", "cognition", "mental processes", "cognitive science", "cognitive psychology basics", "memory perception", "cognitive processes", "thinking and reasoning", "cognitive psychology fundamentals", "cognitive functions"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Developmental Psychology",
+    "keywords": ["developmental psychology", "human development", "child development", "developmental stages", "developmental psychology basics", "lifespan development", "developmental processes", "developmental psychology fundamentals", "growth and development", "developmental milestones"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Social Psychology",
+    "keywords": ["social psychology", "social behavior", "group dynamics", "social influence", "social psychology basics", "interpersonal behavior", "social cognition", "social psychology fundamentals", "social interactions", "social perception"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Philosophy",
+    "keywords": ["philosophy", "philosophical thought", "philosophy basics", "philosophical theory", "intro to philosophy", "philosophical concepts", "philosophy fundamentals", "western philosophy", "philosophical inquiry", "critical thinking philosophy"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Ethics",
+    "keywords": ["ethics", "moral philosophy", "ethical theory", "morality", "ethics basics", "ethical principles", "ethics fundamentals", "intro to ethics", "moral reasoning", "ethical systems"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Logic",
+    "keywords": ["logic", "logical reasoning", "formal logic", "logic basics", "deductive logic", "logical thinking", "logic fundamentals", "intro to logic", "propositional logic", "logical arguments"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Metaphysics",
+    "keywords": ["metaphysics", "metaphysical philosophy", "nature of reality", "ontology", "metaphysics basics", "existence and being", "metaphysical theory", "metaphysics fundamentals", "reality philosophy", "metaphysical concepts"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Epistemology",
+    "keywords": ["epistemology", "theory of knowledge", "knowledge philosophy", "epistemology basics", "knowing and belief", "epistemological theory", "epistemology fundamentals", "philosophy of knowledge", "epistemological concepts", "justification knowledge"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Law",
+    "keywords": ["law", "legal studies", "legal system", "jurisprudence", "law basics", "legal principles", "law fundamentals", "intro to law", "legal theory", "legal concepts"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Constitutional Law",
+    "keywords": ["constitutional law", "constitution", "constitutional rights", "constitutional principles", "constitutional law basics", "constitutional theory", "constitutional law fundamentals", "constitutional interpretation", "constitutional system", "constitutional government"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Criminal Law",
+    "keywords": ["criminal law", "criminal justice", "criminal offenses", "criminal procedure", "criminal law basics", "crime and punishment", "criminal law fundamentals", "criminal legal system", "criminal liability", "criminal statutes"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Contract Law",
+    "keywords": ["contract law", "contracts", "contractual agreements", "contract formation", "contract law basics", "contract principles", "contract law fundamentals", "contract enforcement", "contractual obligations", "contract theory"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Survival Analysis",
+    "keywords": ["survival analysis basics", "kaplan-meier curve", "cox proportional hazards model", "time-to-event analysis", "censored data", "hazard functions", "biostatistics survival", "statistics for clinical trials", "reliability analysis", "actuarial science"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Homotopy Type Theory (HoTT)",
+    "keywords": ["homotopy type theory", "hott basics", "univalent foundations", "cubical type theory", "proof assistants", "agda coq lean", "identity types", "propositions as types", "advanced logic", "foundations of mathematics"],
+    "difficulty": 10
+  },
+  {
+    "topic": "Lie Groups & Lie Algebras",
+    "keywords": ["lie groups intro", "lie algebras explained", "representation theory", "continuous symmetry", "mathematical physics", "exponential map", "special orthogonal group", "so(3)", "lie theory", "differential geometry"],
+    "difficulty": 10
+  },
+  {
+    "topic": "Information Theory",
+    "keywords": ["information theory basics", "shannon entropy", "what is information", "data compression", "channel capacity", "error correcting codes", "mutual information", "kullback-leibler divergence", "claude shannon", "coding theory"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Recommendation Systems",
+    "keywords": ["recommendation systems explained", "recsys basics", "collaborative filtering", "content-based filtering", "matrix factorization", "svd", "building a recommender", "machine learning applications", "netflix prize", "information retrieval"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Server-Side Rendering (SSR)",
+    "keywords": ["server side rendering explained", "ssr vs csr", "next.js tutorial", "nuxtjs basics", "isomorphic javascript", "web performance optimization", "seo for javascript apps", "frontend architecture", "hydration", "universal apps"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Time-Series Databases",
+    "keywords": ["time series database", "what is a tsdb", "influxdb tutorial", "prometheus basics", "database for iot", "handling time-stamped data", "opentsdb", "timescaledb", "data modeling for time series", "monitoring systems"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Anomaly Detection",
+    "keywords": ["anomaly detection explained", "outlier detection", "unsupervised machine learning", "fraud detection", "network intrusion detection", "isolation forest", "local outlier factor", "novelty detection", "ml for monitoring", "detecting anomalies"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Augmented & Virtual Reality (AR/VR)",
+    "keywords": ["ar vr development", "augmented reality basics", "virtual reality explained", "unity for vr", "unreal engine ar", "arkit tutorial", "arcore basics", "webxr", "spatial computing", "building immersive experiences"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Biomechanics",
+    "keywords": ["biomechanics of human movement", "introduction to biomechanics", "kinesiology", "gait analysis", "stress and strain in tissues", "sports biomechanics", "biomedical engineering", "orthopedic biomechanics", "fluid biomechanics", "mechanics of biological systems"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Hydraulic Engineering",
+    "keywords": ["hydraulic engineering basics", "open channel flow", "pipe network analysis", "hydrology", "water resources engineering", "dam design", "fluid mechanics applications", "civil engineering hydraulics", "water distribution systems", "pumps and turbines"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Fire Protection Engineering",
+    "keywords": ["fire protection engineering", "fire dynamics", "sprinkler system design", "fire detection and alarm", "building fire safety", "smoke control systems", "performance-based design", "fire science", "nfpa codes", "what is an fpe"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Welding Engineering",
+    "keywords": ["welding engineering basics", "welding processes", "arc welding", "tig mig stick", "metallurgy of welding", "weld inspection", "nondestructive testing", "weld design", "joining processes", "materials science welding"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Petroleum Engineering",
+    "keywords": ["petroleum engineering basics", "oil and gas exploration", "reservoir engineering", "drilling engineering", "production engineering", "well logging", "petroleum geology", "upstream oil and gas", "formation evaluation", "oil recovery methods"],
+    "difficulty": 7
+  },
+  {
+    "topic": "CRISPR Gene Editing",
+    "keywords": ["crispr explained", "crispr-cas9 system", "gene editing basics", "how crispr works", "genetic engineering", "molecular biology techniques", "guide rna", "genome editing", "applications of crispr", "biotechnology"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Population Dynamics",
+    "keywords": ["population dynamics modeling", "ecology population growth", "logistic and exponential growth", "predator-prey models", "lotka-volterra equations", "carrying capacity", "r/k selection theory", "population ecology", "conservation biology", "mathematical biology"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Radiology",
+    "keywords": ["introduction to radiology", "medical imaging interpretation", "how to read x-rays", "ct scan basics", "mri principles", "ultrasound imaging", "diagnostic radiology", "interventional radiology", "nuclear medicine", "radiologic anatomy"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Proteomics",
+    "keywords": ["proteomics basics", "what is proteomics", "study of proteins", "mass spectrometry for proteomics", "2d gel electrophoresis", "protein identification", "bioinformatics proteomics", "protein expression analysis", "post-translational modifications", "systems biology"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Island Biogeography",
+    "keywords": ["theory of island biogeography", "macarthur and wilson", "ecology of islands", "species-area relationship", "immigration and extinction rates", "conservation biology", "habitat fragmentation", "metapopulation theory", "island ecosystems", "biogeography"],
+    "difficulty": 7
+  },
+  {
+    "topic": "The Frankfurt School",
+    "keywords": ["frankfurt school critical theory", "adorno horkheimer marcuse", "what is critical theory", "culture industry", "critique of enlightenment", "marxist theory", "social theory", "continental philosophy", "habermas", "negative dialectics"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Intellectual Property Law",
+    "keywords": ["intellectual property law basics", "what is ip law", "copyrights trademarks patents", "trade secrets", "patent law", "copyright explained", "fair use doctrine", "protecting intellectual property", "ip litigation", "legal studies ip"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Psycholinguistics",
+    "keywords": ["psycholinguistics intro", "psychology of language", "language acquisition", "language processing", "how we understand speech", "neurolinguistics", "cognitive science language", "language production", "bilingualism", "wernicke's broca's area"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Economic History",
+    "keywords": ["economic history overview", "history of economic thought", "the industrial revolution", "history of capitalism", "the great depression", "globalization history", "cliometrics", "financial history", "economic development", "how economies evolved"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Existentialism",
+    "keywords": ["existentialism for beginners", "sartre camus kierkegaard", "what is existentialism", "existence precedes essence", "freedom and responsibility", "the absurd", "authenticity", "continental philosophy", "phenomenology", "philosophy of meaning"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Market Sizing",
+    "keywords": ["how to size a market", "market sizing techniques", "tam sam som", "top-down approach", "bottom-up analysis", "market analysis", "business case development", "product management skills", "consulting case interview", "market research"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Competitive Analysis",
+    "keywords": ["competitive analysis framework", "how to analyze competitors", "porter's five forces", "swot analysis", "business strategy", "market intelligence", "competitor research", "product positioning", "identifying competitive advantage", "strategic planning"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Habit Formation",
+    "keywords": ["how to build habits", "habit formation science", "atomic habits summary", "the power of habit", "habit loop", "breaking bad habits", "tiny habits", "james clear", "behavioral psychology", "self-improvement"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Mindfulness & Meditation",
+    "keywords": ["mindfulness for beginners", "how to meditate", "introduction to meditation", "guided meditation", "benefits of mindfulness", "stress reduction", "living in the present moment", "vipassana meditation", "MBSR", "mental wellness"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Sound Design",
+    "keywords": ["sound design for beginners", "what is sound design", "foley art", "sound effects sfx", "synthesizer basics", "sound design for film", "game audio", "audio post-production", "creating sounds from scratch", "sound editing"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Bayesian Statistics",
+    "keywords": ["bayesian statistics intro", "bayes' theorem", "bayesian inference", "prior and posterior distributions", "markov chain monte carlo", "mcmc", "bayesian vs frequentist", "probabilistic programming", "stan pymc", "bayesian modeling"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Algebraic Topology",
+    "keywords": ["algebraic topology basics", "fundamental group", "homology and cohomology", "simplicial complexes", "betti numbers", "homotopy theory", "math topology advanced", "connecting geometry and algebra", "singular homology", "hatcher's algebraic topology"],
+    "difficulty": 10
+  },
+  {
+    "topic": "Chaos Theory",
+    "keywords": ["chaos theory explained", "introduction to chaos", "the butterfly effect", "dynamical systems", "strange attractors", "lorenz system", "fractals and chaos", "nonlinear dynamics", "bifurcation theory", "predictability limits"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Mathematical Logic",
+    "keywords": ["mathematical logic intro", "propositional logic", "first-order logic", "proof theory", "model theory", "gödel's incompleteness theorems", "computability theory", "set theory and logic", "formal systems", "foundations of math"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Category Theory",
+    "keywords": ["category theory for beginners", "what is category theory", "objects and morphisms", "functors and natural transformations", "monads in programming", "abstract algebra", "universal properties", "yoneda lemma", "applied category theory", "abstract nonsense"],
+    "difficulty": 10
+  },
+  {
+    "topic": "Actuarial Science",
+    "keywords": ["actuarial science basics", "what do actuaries do", "life tables", "insurance risk", "financial mathematics", "actuarial exams", "probability for risk management", "loss models", "interest theory", "actuarial modeling"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Event-Driven Architecture",
+    "keywords": ["event-driven architecture explained", "eda patterns", "message queues", "rabbitmq tutorial", "apache kafka basics", "publish-subscribe pattern", "asynchronous systems", "microservices communication", "event sourcing", "cqrs pattern"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Generative Adversarial Networks (GANs)",
+    "keywords": ["gans explained", "generative adversarial networks", "deep learning generative models", "discriminator and generator", "image generation with gans", "stylegan", "dcgan", "how gans work", "training gans", "advanced deep learning"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Graph Neural Networks (GNNs)",
+    "keywords": ["graph neural networks intro", "gnn basics", "deep learning on graphs", "graph convolutional networks", "gcn", "node classification", "link prediction", "pytorch geometric", "dgl library", "machine learning on network data"],
+    "difficulty": 9
+  },
+  {
+    "topic": "WebAssembly (WASM)",
+    "keywords": ["webassembly explained", "what is wasm", "rust and webassembly", "high performance web apps", "running c++ in browser", "wasm tutorial", "future of web development", "bytecode for the web", "using wasm with javascript", "client-side performance"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Formal Methods in Software",
+    "keywords": ["formal methods explained", "software verification", "model checking", "theorem proving", "tla+", "formal specification", "proving program correctness", "logic in computer science", "reliable software", "safety critical systems"],
+    "difficulty": 9
+  },
+  {
+    "topic": "API Design",
+    "keywords": ["api design best practices", "restful api design", "graphql basics", "what makes a good api", "api versioning", "authentication and authorization", "openapi specification", "swagger tutorial", "building robust apis", "web api design"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Finite Element Analysis (FEA)",
+    "keywords": ["finite element analysis basics", "what is fea", "introduction to fem", "structural analysis fea", "ansys tutorial", "abaqus basics", "meshing", "solving pdes with fea", "engineering simulation", "computational mechanics"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Cryogenics",
+    "keywords": ["cryogenics explained", "low temperature physics", "liquid nitrogen", "liquid helium", "superconductivity", "cryocoolers", "materials at low temperatures", "cryogenic engineering", "absolute zero", "quantum phenomena"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Supersymmetry (SUSY)",
+    "keywords": ["supersymmetry explained", "what is susy", "particle physics theory", "beyond the standard model", "superpartners", "dark matter candidates", "string theory and susy", "minimal supersymmetric standard model", "mssm", "theoretical physics"],
+    "difficulty": 10
+  },
+  {
+    "topic": "Photonics",
+    "keywords": ["photonics basics", "what is photonics", "lasers and fiber optics", "optoelectronics", "silicon photonics", "optical engineering", "quantum optics", "light manipulation", "photonic integrated circuits", "light based technology"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Acoustic Engineering",
+    "keywords": ["acoustic engineering basics", "science of sound", "noise control", "architectural acoustics", "audio engineering", "transducer design", "ultrasound physics", "vibration analysis", "soundproofing", "room acoustics"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Geomatics Engineering",
+    "keywords": ["geomatics engineering", "what is geomatics", "gis geographic information systems", "gps global positioning system", "remote sensing", "surveying and mapping", "photogrammetry", "spatial data analysis", "cartography", "geospatial technology"],
+    "difficulty": 6
+  },
+  {
+    "topic": "NMR Spectroscopy",
+    "keywords": ["nmr spectroscopy explained", "nuclear magnetic resonance", "interpreting nmr spectra", "h-nmr", "c-nmr", "chemical shift", "spin-spin coupling", "structural elucidation", "analytical chemistry nmr", "organic chemistry analysis"],
+    "difficulty": 8
+  },
+  {
+    "topic": "X-ray Crystallography",
+    "keywords": ["x-ray crystallography basics", "how crystallography works", "determining protein structure", "bragg's law", "x-ray diffraction", "crystal structure", "structural biology", "biophysical technique", "growing crystals", "electron density maps"],
+    "difficulty": 9
+  },
+  {
+    "topic": "RNA World Hypothesis",
+    "keywords": ["rna world hypothesis", "origin of life", "ribozymes", "abiogenesis", "prebiotic chemistry", "self-replicating rna", "early life chemistry", "evolution of life", "astrobiology origins", "catalytic rna"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Pathology",
+    "keywords": ["introduction to pathology", "basics of disease", "cellular pathology", "histopathology", "mechanisms of disease", "clinical pathology", "disease diagnosis", "what is pathology", "general pathology", "systemic pathology"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Entomology",
+    "keywords": ["introduction to entomology", "study of insects", "insect anatomy", "insect classification", "medical entomology", "forensic entomology", "insect behavior", "pest management", "pollinators", "insect diversity"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Mycology",
+    "keywords": ["introduction to mycology", "study of fungi", "what are fungi", "mushrooms yeast and mold", "fungal biology", "fungal ecology", "mycorrhizal relationships", "medical mycology", "fungal identification", "kingdom fungi"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Phenomenology",
+    "keywords": ["phenomenology philosophy", "husserl and heidegger", "what is phenomenology", "lived experience", "consciousness studies", "continental philosophy", "intentionality", "the lifeworld", "merleau-ponty", "philosophy of perception"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Stoicism",
+    "keywords": ["stoicism for beginners", "introduction to stoicism", "marcus aurelius meditations", "seneca epictetus", "stoic philosophy", "control what you can", "practical philosophy", "how to be a stoic", "virtue ethics", "ancient wisdom"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Forensic Psychology",
+    "keywords": ["forensic psychology basics", "psychology and the law", "criminal profiling", "expert witness testimony", "psychology of crime", "legal psychology", "assessing sanity", "criminal psychology", "what is forensic psychology", "psychology in court"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Byzantine History",
+    "keywords": ["history of byzantium", "byzantine empire", "constantinople", "justinian and theodora", "eastern roman empire", "fall of constantinople", "byzantine art", "medieval history", "history of turkey", "orthodox christianity"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Behavioral Genetics",
+    "keywords": ["behavioral genetics intro", "nature vs nurture", "genes and behavior", "twin studies", "heritability", "genetic basis of personality", "psychiatric genetics", "epigenetics and behavior", "genetics of intelligence", "molecular genetics"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Semiotics",
+    "keywords": ["semiotics basics", "study of signs and symbols", "signifier and signified", "saussure and peirce", "linguistics and semiotics", "cultural signs", "how meaning is made", "visual semiotics", "analyzing symbols", "communication theory"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Color Grading",
+    "keywords": ["color grading for beginners", "what is color grading", "davinci resolve color", "video color correction", "cinematic color", "color theory for video", "luts explained", "color wheels and scopes", "premiere pro lumetri color", "film look"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Screenwriting",
+    "keywords": ["screenwriting for beginners", "how to write a screenplay", "three-act structure", "screenplay format", "writing dialogue for film", "character arcs", "story structure", "final draft tutorial", "save the cat", "writing a movie script"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Excel VBA Programming",
+    "keywords": ["excel vba tutorial", "vba for beginners", "what is vba", "automating tasks in excel", "excel macros explained", "writing vba code", "userforms in excel", "vba programming", "excel automation", "visual basic for applications"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Algorithmic Trading",
+    "keywords": ["algorithmic trading basics", "what is algotrading", "quantitative trading", "building a trading bot", "python for algorithmic trading", "backtesting strategies", "high-frequency trading hft", "quant finance", "automated trading systems", "trading algorithms"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Facilitation Skills",
+    "keywords": ["how to facilitate a meeting", "facilitation techniques", "group facilitation", "workshop facilitation", "effective meetings", "leading group discussions", "managing group dynamics", "brainstorming sessions", "facilitator skills", "participatory meetings"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Giving Effective Feedback",
+    "keywords": ["how to give feedback", "constructive criticism", "feedback techniques", "radical candor", "sbi feedback model", "receiving feedback", "difficult conversations", "performance reviews", "managing people", "communication skills feedback"],
+    "difficulty": 4
+  },
+{
+    "topic": "Literature",
+    "keywords": ["literature", "literary studies", "literary analysis", "literature basics", "literary works", "literature fundamentals", "intro to literature", "literary theory", "reading literature", "literary concepts"],
+    "difficulty": 4
+  },
+  {
+    "topic": "English Literature",
+    "keywords": ["english literature", "british literature", "english literary works", "english lit", "english literature basics", "shakespeare", "english authors", "english literature fundamentals", "classic english literature", "english literary history"],
+    "difficulty": 4
+  },
+  {
+    "topic": "American Literature",
+    "keywords": ["american literature", "american literary works", "american lit", "us literature", "american literature basics", "american authors", "american literature fundamentals", "classic american literature", "american literary history", "american writers"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Literary Theory",
+    "keywords": ["literary theory", "critical theory", "literary criticism", "literary analysis methods", "literary theory basics", "critical approaches", "literary theory fundamentals", "literary interpretation", "theoretical frameworks literature", "literary criticism methods"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Poetry",
+    "keywords": ["poetry", "poetic form", "poetry analysis", "poems", "poetry basics", "poetic devices", "poetry fundamentals", "intro to poetry", "verse and meter", "poetic techniques"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Creative Writing",
+    "keywords": ["creative writing", "fiction writing", "storytelling", "creative writing basics", "writing fiction", "creative writing fundamentals", "narrative writing", "creative composition", "writing stories", "creative writing techniques"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Grammar",
+    "keywords": ["grammar", "english grammar", "grammar rules", "syntax", "grammar basics", "grammatical structure", "grammar fundamentals", "intro to grammar", "parts of speech", "sentence structure"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Linguistics",
+    "keywords": ["linguistics", "language science", "linguistic theory", "language structure", "linguistics basics", "phonetics phonology", "linguistics fundamentals", "intro to linguistics", "language analysis", "linguistic concepts"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Rhetoric",
+    "keywords": ["rhetoric", "rhetorical analysis", "persuasive communication", "rhetorical devices", "rhetoric basics", "rhetorical theory", "rhetoric fundamentals", "intro to rhetoric", "argumentation", "rhetorical strategies"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Communication Skills",
+    "keywords": ["communication skills", "effective communication", "communication basics", "interpersonal communication", "communication fundamentals", "communication techniques", "verbal communication", "communication strategies", "communication principles", "how to communicate"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Public Speaking",
+    "keywords": ["public speaking", "presentation skills", "speaking in public", "public speaking basics", "speech delivery", "public speaking fundamentals", "oral presentation", "public speaking techniques", "how to present", "effective speaking"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Business Communication",
+    "keywords": ["business communication", "professional communication", "business writing", "business communication basics", "corporate communication", "business communication fundamentals", "professional writing", "business correspondence", "workplace communication", "business communication skills"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Technical Writing",
+    "keywords": ["technical writing", "technical documentation", "technical communication", "technical writing basics", "documentation writing", "technical writing fundamentals", "technical content", "writing technical docs", "technical writing skills", "professional technical writing"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Time Management",
+    "keywords": ["time management", "productivity", "time management skills", "managing time", "time management basics", "efficient time use", "time management techniques", "time management fundamentals", "productivity tips", "how to manage time"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Project Management",
+    "keywords": ["project management", "managing projects", "project planning", "project management basics", "pm fundamentals", "project management skills", "project management fundamentals", "project execution", "project management techniques", "how to manage projects"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Leadership",
+    "keywords": ["leadership", "leadership skills", "leading teams", "leadership basics", "effective leadership", "leadership fundamentals", "leadership development", "leadership principles", "how to lead", "leadership techniques"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Team Management",
+    "keywords": ["team management", "managing teams", "team leadership", "team management basics", "team dynamics", "team management fundamentals", "team building", "team management skills", "leading teams", "team coordination"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Problem Solving",
+    "keywords": ["problem solving", "critical thinking", "problem solving skills", "problem solving basics", "analytical thinking", "problem solving techniques", "problem solving fundamentals", "how to solve problems", "problem solving strategies", "problem analysis"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Decision Making",
+    "keywords": ["decision making", "making decisions", "decision making skills", "decision making basics", "decision analysis", "decision making fundamentals", "decision making techniques", "how to make decisions", "rational decision making", "decision processes"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Critical Thinking",
+    "keywords": ["critical thinking", "analytical reasoning", "critical thinking skills", "critical thinking basics", "logical reasoning", "critical thinking fundamentals", "critical analysis", "critical thinking techniques", "how to think critically", "reasoning skills"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Negotiation",
+    "keywords": ["negotiation", "negotiation skills", "negotiation techniques", "negotiation basics", "negotiation strategies", "negotiation fundamentals", "how to negotiate", "negotiation tactics", "bargaining", "negotiation principles"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Conflict Resolution",
+    "keywords": ["conflict resolution", "resolving conflicts", "conflict management", "conflict resolution basics", "conflict resolution skills", "conflict resolution fundamentals", "conflict resolution techniques", "how to resolve conflicts", "mediation", "conflict handling"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Emotional Intelligence",
+    "keywords": ["emotional intelligence", "eq", "emotional intelligence skills", "emotional awareness", "emotional intelligence basics", "social emotional skills", "emotional intelligence fundamentals", "self awareness", "empathy skills", "emotional regulation"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Personal Finance",
+    "keywords": ["personal finance", "money management", "financial planning", "personal finance basics", "budgeting", "personal finance fundamentals", "financial literacy", "managing money", "personal financial planning", "finance basics"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Investing",
+    "keywords": ["investing", "investment", "stock market", "investing basics", "how to invest", "investing fundamentals", "investment strategies", "portfolio management", "investment planning", "investing for beginners"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Accounting",
+    "keywords": ["accounting", "accounting basics", "financial accounting", "accounting principles", "accounting fundamentals", "bookkeeping", "intro to accounting", "accounting concepts", "accounting methods", "basic accounting"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Corporate Finance",
+    "keywords": ["corporate finance", "business finance", "financial management", "corporate finance basics", "corporate financial analysis", "corporate finance fundamentals", "business financial planning", "corporate financial strategy", "company finance", "corporate financial management"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Entrepreneurship",
+    "keywords": ["entrepreneurship", "starting a business", "entrepreneur basics", "entrepreneurship fundamentals", "business startup", "entrepreneurial skills", "how to be an entrepreneur", "entrepreneurship principles", "business creation", "startup fundamentals"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Business Strategy",
+    "keywords": ["business strategy", "strategic management", "business planning", "business strategy basics", "strategic planning", "business strategy fundamentals", "competitive strategy", "strategic analysis", "business strategy development", "corporate strategy"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Marketing",
+    "keywords": ["marketing", "marketing basics", "marketing fundamentals", "intro to marketing", "marketing principles", "marketing strategies", "marketing concepts", "business marketing", "marketing management", "marketing techniques"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Digital Marketing",
+    "keywords": ["digital marketing", "online marketing", "internet marketing", "digital marketing basics", "social media marketing", "digital marketing fundamentals", "digital advertising", "digital marketing strategies", "online advertising", "digital marketing techniques"],
+    "difficulty": 4
+  },
+  {
+    "topic": "SEO",
+    "keywords": ["seo", "search engine optimization", "seo basics", "seo fundamentals", "seo techniques", "website optimization", "search optimization", "seo strategies", "google seo", "seo best practices"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Content Marketing",
+    "keywords": ["content marketing", "content strategy", "content creation", "content marketing basics", "content marketing fundamentals", "content marketing strategies", "content development", "marketing content", "content marketing techniques", "content planning"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Brand Management",
+    "keywords": ["brand management", "branding", "brand strategy", "brand management basics", "brand development", "brand management fundamentals", "brand identity", "brand building", "brand marketing", "brand positioning"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Sales",
+    "keywords": ["sales", "sales techniques", "selling", "sales basics", "sales strategies", "sales fundamentals", "sales skills", "sales process", "how to sell", "sales principles"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Customer Service",
+    "keywords": ["customer service", "customer support", "customer service basics", "customer service skills", "customer service fundamentals", "customer relations", "customer service techniques", "customer care", "customer service principles", "serving customers"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Supply Chain Management",
+    "keywords": ["supply chain management", "supply chain", "logistics", "supply chain basics", "supply chain fundamentals", "supply chain operations", "supply chain planning", "supply chain strategies", "logistics management", "supply chain optimization"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Operations Management",
+    "keywords": ["operations management", "operations", "business operations", "operations management basics", "operations fundamentals", "operational efficiency", "operations planning", "operations management principles", "managing operations", "operational processes"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Human Resources",
+    "keywords": ["human resources", "hr", "hr management", "human resources basics", "hr fundamentals", "personnel management", "hr principles", "human resource management", "hr practices", "human resources management"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Organizational Behavior",
+    "keywords": ["organizational behavior", "organizational psychology", "workplace behavior", "organizational behavior basics", "organizational behavior fundamentals", "organizational dynamics", "organizational behavior theory", "workplace psychology", "organizational culture", "behavior in organizations"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Graphic Design",
+    "keywords": ["graphic design", "design basics", "visual design", "graphic design fundamentals", "design principles", "graphic design basics", "design concepts", "visual communication design", "graphic design techniques", "intro to graphic design"],
+    "difficulty": 3
+  },
+  {
+    "topic": "UI/UX Design",
+    "keywords": ["ui ux design", "user interface design", "user experience design", "ui ux basics", "ux design", "ui design", "ui ux fundamentals", "user centered design", "interface design", "ux ui principles"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Web Design",
+    "keywords": ["web design", "website design", "web design basics", "web design fundamentals", "designing websites", "web design principles", "web design techniques", "website layout", "web design concepts", "responsive design"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Typography",
+    "keywords": ["typography", "type design", "typography basics", "fonts and typefaces", "typography fundamentals", "typographic design", "typography principles", "lettering", "typography techniques", "type fundamentals"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Color Theory",
+    "keywords": ["color theory", "color basics", "color principles", "color theory fundamentals", "color psychology", "color harmony", "color theory concepts", "color mixing", "color design", "color fundamentals"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Photography",
+    "keywords": ["photography", "photography basics", "photography fundamentals", "intro to photography", "camera basics", "photography techniques", "photo composition", "photography principles", "how to photograph", "photography skills"],
+    "difficulty": 3
+  },
+  {
+    "topic": "Video Editing",
+    "keywords": ["video editing", "video production", "video editing basics", "editing videos", "video editing fundamentals", "video editing techniques", "video post production", "video editing skills", "how to edit videos", "video editing software"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Animation",
+    "keywords": ["animation", "animation basics", "animation fundamentals", "intro to animation", "animation techniques", "2d animation", "3d animation", "animation principles", "animation creation", "how to animate"],
+    "difficulty": 5
+  },
+  {
+    "topic": "3D Modeling",
+    "keywords": ["3d modeling", "3d design", "3d modeling basics", "3d modeling fundamentals", "3d modeling techniques", "modeling 3d objects", "3d modeling software", "3d graphics", "3d modeling skills", "intro to 3d modeling"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Game Design",
+    "keywords": ["game design", "video game design", "game design basics", "game design fundamentals", "game mechanics", "game design principles", "designing games", "game development design", "game design concepts", "game design theory"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Game Development",
+    "keywords": ["game development", "game programming", "game dev", "game development basics", "making games", "game development fundamentals", "game development techniques", "game creation", "developing games", "game dev skills"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Music Theory",
+    "keywords": ["music theory", "music theory basics", "music fundamentals", "music theory fundamentals", "intro to music theory", "musical concepts", "music theory principles", "harmony and melody", "music theory concepts", "basic music theory"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Audio Engineering",
+    "keywords": ["audio engineering", "sound engineering", "audio production", "audio engineering basics", "audio engineering fundamentals", "sound design", "audio mixing", "audio recording", "audio engineering techniques", "sound engineering fundamentals"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Data Analysis",
+    "keywords": ["data analysis", "analyzing data", "data analysis basics", "data analysis fundamentals", "data analytics", "data analysis techniques", "statistical analysis", "data analysis skills", "how to analyze data", "data interpretation"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Data Science",
+    "keywords": ["data science", "data science basics", "intro to data science", "data science fundamentals", "data science concepts", "data science skills", "data science techniques", "data science methods", "data science principles", "learn data science"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Big Data",
+    "keywords": ["big data", "big data analytics", "big data basics", "big data fundamentals", "big data technologies", "big data processing", "big data concepts", "large scale data", "big data systems", "big data analysis"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Data Visualization",
+    "keywords": ["data visualization", "data viz", "visualizing data", "data visualization basics", "data visualization fundamentals", "data visualization techniques", "charts and graphs", "data visualization tools", "visual analytics", "data presentation"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Business Intelligence",
+    "keywords": ["business intelligence", "bi", "business analytics", "business intelligence basics", "bi fundamentals", "business intelligence tools", "data driven business", "business intelligence systems", "bi analytics", "business intelligence concepts"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Excel",
+    "keywords": ["excel", "microsoft excel", "excel basics", "excel fundamentals", "excel skills", "spreadsheets", "excel formulas", "excel tutorial", "learn excel", "excel techniques"],
+    "difficulty": 2
+  },
+  {
+    "topic": "Advanced Excel",
+    "keywords": ["advanced excel", "excel advanced", "excel macros", "excel vba", "advanced excel techniques", "excel pivot tables", "advanced excel skills", "excel data analysis", "excel advanced formulas", "excel power query"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Tableau",
+    "keywords": ["tableau", "tableau software", "tableau basics", "tableau fundamentals", "tableau visualization", "tableau tutorial", "learn tableau", "tableau dashboard", "tableau skills", "tableau data viz"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Power BI",
+    "keywords": ["power bi", "microsoft power bi", "power bi basics", "power bi fundamentals", "power bi tutorial", "learn power bi", "power bi visualization", "power bi dashboard", "power bi skills", "power bi reports"],
+    "difficulty": 4
+  },
+  {
+    "topic": "R Programming",
+    "keywords": ["r programming", "r language", "r basics", "r fundamentals", "learn r", "r tutorial", "r statistical programming", "r coding", "r for data science", "intro to r"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Data Mining",
+    "keywords": ["data mining", "mining data", "data mining basics", "data mining fundamentals", "data mining techniques", "data mining algorithms", "knowledge discovery", "data mining methods", "data mining concepts", "extracting data patterns"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Blockchain",
+    "keywords": ["blockchain", "blockchain technology", "blockchain basics", "blockchain fundamentals", "distributed ledger", "blockchain concepts", "blockchain systems", "intro to blockchain", "blockchain principles", "blockchain tech"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Cryptocurrency",
+    "keywords": ["cryptocurrency", "crypto", "bitcoin", "cryptocurrency basics", "cryptocurrency fundamentals", "digital currency", "crypto trading", "cryptocurrency concepts", "blockchain currency", "crypto basics"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Internet of Things",
+    "keywords": ["iot", "internet of things", "iot basics", "iot fundamentals", "iot devices", "iot systems", "connected devices", "iot technology", "iot concepts", "intro to iot"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Robotics",
+    "keywords": ["robotics", "robot programming", "robotics basics", "robotics fundamentals", "robot design", "robotics engineering", "robotics concepts", "intro to robotics", "robotics systems", "robotics technology"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Artificial Intelligence",
+    "keywords": ["artificial intelligence", "ai", "ai basics", "ai fundamentals", "intro to ai", "artificial intelligence concepts", "ai technology", "ai systems", "ai principles", "learn ai"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Ethics in AI",
+    "keywords": ["ai ethics", "ethics in artificial intelligence", "ai ethics basics", "responsible ai", "ethical ai", "ai ethics principles", "ai ethics fundamentals", "ai bias", "ethical ai development", "ai fairness"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Augmented Reality",
+    "keywords": ["augmented reality", "ar", "ar basics", "ar fundamentals", "augmented reality technology", "ar development", "ar concepts", "intro to ar", "ar applications", "ar systems"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Virtual Reality",
+    "keywords": ["virtual reality", "vr", "vr basics", "vr fundamentals", "virtual reality technology", "vr development", "vr concepts", "intro to vr", "vr applications", "vr systems"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Set Theory",
+    "keywords": ["set theory basics", "introduction to sets", "venn diagrams", "unions and intersections", "cardinality of sets", "naive set theory", "zfc axioms", "foundations of mathematics", "set operations", "subsets and power sets"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Graph Theory",
+    "keywords": ["graph theory basics", "nodes and edges", "types of graphs", "graph traversal algorithms", "bfs dfs", "shortest path algorithms", "dijkstra's algorithm", "minimum spanning trees", "network analysis", "discrete math graphs"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Combinatorics",
+    "keywords": ["combinatorics basics", "permutations and combinations", "counting principles", "binomial theorem", "pigeonhole principle", "generating functions", " Ramsey theory", "enumerative combinatorics", "how to count", "probability counting"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Partial Differential Equations (PDEs)",
+    "keywords": ["partial differential equations", "solving pdes", "heat equation", "wave equation", "laplace's equation", "fourier series for pdes", "introduction to pdes", "mathematical physics", "numerical methods for pdes", "boundary value problems"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Numerical Analysis",
+    "keywords": ["numerical analysis tutorial", "numerical methods", "root finding algorithms", "numerical integration", "solving odes numerically", "interpolation", "floating point arithmetic", "computational mathematics", "error analysis", "finite difference method"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Game Theory",
+    "keywords": ["game theory basics", "prisoner's dilemma", "nash equilibrium", "strategic decision making", "zero-sum games", "cooperative vs non-cooperative", "game theory in economics", "introduction to game theory", "dominant strategies", "repeated games"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Measure Theory",
+    "keywords": ["measure theory intro", "lebesgue measure", "sigma-algebras", "measurable functions", "lebesgue integration", "real analysis measure", "foundations of probability", "abstract integration", "borel sets", "advanced analysis"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Stochastic Processes",
+    "keywords": ["stochastic processes explained", "random processes", "markov chains", "random walks", "brownian motion", "poisson process", "time series analysis", "probability models", "stochastic modeling", "wiener process"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Differential Geometry",
+    "keywords": ["differential geometry intro", "manifolds and tensors", "curvature", "geodesics", "riemannian geometry", "curves and surfaces", "topology and geometry", "math for general relativity", "forms and vector fields", "advanced geometry"],
+    "difficulty": 10
+  },
+  {
+    "topic": "Cloud Computing",
+    "keywords": ["cloud computing basics", "what is the cloud", "aws fundamentals", "azure for beginners", "google cloud platform", "iaas paas saas", "cloud architecture", "serverless computing", "cloud storage", "virtualization"],
+    "difficulty": 5
+  },
+  {
+    "topic": "DevOps & CI/CD",
+    "keywords": ["what is devops", "ci/cd pipeline explained", "jenkins tutorial", "github actions", "continuous integration", "continuous delivery", "infrastructure as code", "automation in software", "docker and kubernetes", "devops culture"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Containers (Docker & Kubernetes)",
+    "keywords": ["docker for beginners", "what is docker", "kubernetes explained", "k8s tutorial", "containerization", "docker containers", "orchestration", "microservices architecture", "managing containers", "docker-compose"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Blockchain Technology",
+    "keywords": ["blockchain explained", "how blockchain works", "cryptocurrency basics", "bitcoin and ethereum", "smart contracts", "decentralization", "distributed ledger technology", "web3 introduction", "solidity tutorial", "blockchain development"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Computer Graphics",
+    "keywords": ["computer graphics intro", "opengl tutorial", "3d rendering pipeline", "ray tracing explained", "shaders and textures", "transformations in graphics", "blender basics", "game engine graphics", "rasterization", "computational geometry"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Computer Vision",
+    "keywords": ["computer vision basics", "what is computer vision", "image processing techniques", "object detection", "image recognition", "opencv tutorial", "cnns for vision", "image segmentation", "feature detection", "cv fundamentals"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Software Engineering Principles",
+    "keywords": ["software engineering basics", "sdlc", "agile vs waterfall", "software design patterns", "solid principles", "code quality", "testing and qa", "software architecture", "requirements engineering", "version control strategies"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Functional Programming",
+    "keywords": ["functional programming concepts", "what is functional programming", "pure functions", "immutability", "higher-order functions", "lambda calculus intro", "haskell for beginners", "lisp basics", "map filter reduce", "declarative programming"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Ethical AI & AI Safety",
+    "keywords": ["ethical ai", "ai ethics", "bias in machine learning", "ai safety research", "fairness accountability transparency", "explainable ai (xai)", "ai alignment problem", "responsible ai", "dangers of ai", "ai governance"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Solid State Physics",
+    "keywords": ["solid state physics intro", "crystal structures", "band theory of solids", "semiconductors physics", "phonons and electrons", "condensed matter physics", "free electron model", "brillouin zones", "physics of materials", "superconductivity"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Particle Physics",
+    "keywords": ["particle physics for beginners", "the standard model", "quarks and leptons", "fundamental forces", "higgs boson explained", "particle accelerators", "lhc", "neutrinos", "quantum chromodynamics", "beyond the standard model"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Optics",
+    "keywords": ["optics basics", "geometric optics", "reflection and refraction", "lenses and mirrors", "physical optics", "diffraction and interference", "polarization of light", "wave nature of light", "lasers explained", "photonics intro"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Biomedical Engineering",
+    "keywords": ["biomedical engineering intro", "what is bme", "medical imaging", "biomechanics", "biomaterials", "tissue engineering", "bioinstrumentation", "physiological modeling", "medical device design", "biomedical signal processing"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Semiconductor Devices",
+    "keywords": ["semiconductor physics", "diodes and transistors", "pn junctions", "mosfet explained", "how semiconductors work", "integrated circuit fabrication", "optoelectronics", "device physics", "vlsi design intro", "electronics components"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Nanotechnology",
+    "keywords": ["nanotechnology for beginners", "what is nanotechnology", "nanomaterials", "carbon nanotubes", "graphene", "quantum dots", "nanoscale engineering", "applications of nano", "nanofabrication", "nanomedicine"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Renewable Energy Systems",
+    "keywords": ["renewable energy basics", "solar power explained", "wind turbine technology", "hydropower", "geothermal energy", "biofuels", "energy storage systems", "power grid integration", "sustainable energy", "clean tech"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Continuum Mechanics",
+    "keywords": ["continuum mechanics basics", "stress and strain", "tensor analysis", "constitutive models", "elasticity theory", "plasticity", "fluid mechanics from continuum", "deformation and flow", "solid mechanics foundations", "advanced mechanics"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Plasma Physics",
+    "keywords": ["introduction to plasma physics", "what is plasma", "fourth state of matter", "fusion energy", "tokamaks", "magnetohydrodynamics (mhd)", "plasma applications", "astrophysical plasmas", "space plasma physics", "controlled fusion"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Analytical Chemistry",
+    "keywords": ["analytical chemistry techniques", "spectroscopy explained", "chromatography", "hplc gc", "mass spectrometry", "quantitative analysis", "qualitative analysis", "instrumental analysis", "titration methods", "chemical measurement"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Polymer Chemistry",
+    "keywords": ["polymer chemistry basics", "introduction to polymers", "what are plastics", "polymerization reactions", "polymer structure and properties", "macromolecules", "polymer science", "synthesis of polymers", "characterization of polymers", "material science polymers"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Epigenetics",
+    "keywords": ["epigenetics for beginners", "what is epigenetics", "dna methylation", "histone modification", "gene expression regulation", "epigenome", "genetics beyond genes", "environmental influence on genes", "inheritance of acquired traits", "cancer epigenetics"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Developmental Biology",
+    "keywords": ["developmental biology intro", "from zygote to organism", "embryology", "cell differentiation", "morphogenesis", "evo-devo", "stem cells", "gene regulation in development", "how organisms are built", "body plan formation"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Biophysics",
+    "keywords": ["biophysics basics", "physics of biological systems", "molecular biophysics", "protein folding", "ion channels", "biomechanics", "biophysical techniques", "thermodynamics of life", "physics in biology", "modeling biological processes"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Bioinformatics",
+    "keywords": ["bioinformatics for beginners", "what is bioinformatics", "sequence alignment", "blast search", "genomic data analysis", "phylogenetic trees", "computational biology", "analyzing dna sequences", "proteomics", "R for bioinformatics"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Cancer Biology",
+    "keywords": ["cancer biology basics", "what is cancer", "oncogenes and tumor suppressors", "hallmarks of cancer", "metastasis", "cancer genetics", "immunotherapy for cancer", "how cancer starts", "cell cycle and cancer", "cancer research"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Food Science",
+    "keywords": ["introduction to food science", "food chemistry", "food microbiology", "food processing", "nutrition science", "sensory analysis", "food safety", "what is in our food", "food engineering", "culinary science"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Marine Biology",
+    "keywords": ["marine biology basics", "ocean life", "coral reef ecology", "deep sea biology", "marine ecosystems", "oceanography", "marine conservation", "study of sea creatures", "marine invertebrates", "ocean science"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Linguistics",
+    "keywords": ["introduction to linguistics", "what is linguistics", "phonetics and phonology", "syntax and grammar", "semantics and pragmatics", "sociolinguistics", "historical linguistics", "language acquisition", "chomsky linguistics", "study of language"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Art History",
+    "keywords": ["art history survey", "renaissance art", "impressionism", "modern art movements", "ancient art", "how to analyze art", "baroque period", "famous paintings explained", "history of art", "visual culture"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Music Theory",
+    "keywords": ["music theory for beginners", "learn music theory", "scales and chords", "reading sheet music", "circle of fifths", "harmony and melody", "music composition basics", "rhythm and meter", "intervals", "basic music theory"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Urban Planning",
+    "keywords": ["urban planning basics", "city planning", "what is urban planning", "land use planning", "sustainable cities", "transportation planning", "urban design", "housing policy", "history of cities", "jane jacobs"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Cognitive Science",
+    "keywords": ["introduction to cognitive science", "how the mind works", "interdisciplinary study of mind", "philosophy of mind", "computational models of mind", "neuroscience and cognition", "psychology and linguistics", "consciousness studies", "embodied cognition", "cogsci"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Archaeology",
+    "keywords": ["archaeology for beginners", "what is archaeology", "archaeological methods", "excavation techniques", "human prehistory", "ancient civilizations study", "dating methods", "cultural heritage", "historical archaeology", "uncovering the past"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Public Health",
+    "keywords": ["introduction to public health", "what is public health", "epidemiology basics", "disease prevention", "health policy", "community health", "global health issues", "social determinants of health", "biostatistics intro", "population health"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Modern Philosophy",
+    "keywords": ["modern philosophy", "descartes kant hume", "rationalism vs empiricism", "enlightenment thinkers", "german idealism", "hegel philosophy", "17th and 18th century philosophy", "continental philosophy", "epistemology", "metaphysics"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Postmodernism",
+    "keywords": ["postmodern philosophy explained", "what is postmodernism", "foucault derrida", "deconstruction", "post-structuralism", "modernism vs postmodernism", "critical theory", "philosophy and literature", "simulacra and simulation", "lyotard"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Sales Techniques",
+    "keywords": ["sales for beginners", "how to sell anything", "sales process", "closing techniques", "lead generation", "b2b sales", "consultative selling", "sales skills", "cold calling tips", "building rapport"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Copywriting",
+    "keywords": ["copywriting for beginners", "what is copywriting", "how to write copy", "persuasive writing", "writing headlines", "direct response copywriting", "seo copywriting", "marketing copy", "advertising writing", "sales copy"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Search Engine Optimization (SEO)",
+    "keywords": ["seo basics", "how seo works", "keyword research", "on-page seo", "off-page seo", "link building", "technical seo", "google algorithm", "ranking on google", "seo for websites"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Emotional Intelligence (EQ)",
+    "keywords": ["emotional intelligence explained", "what is eq", "how to improve eq", "self-awareness", "self-regulation", "empathy", "social skills", "daniel goleman", "emotional regulation", "eq in leadership"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Conflict Resolution",
+    "keywords": ["conflict resolution skills", "how to resolve conflict", "de-escalation techniques", "mediation basics", "negotiating conflict", "difficult conversations", "workplace conflict", "communication skills", "managing disagreements", "active listening"],
+    "difficulty": 5
+  },
+  {
+    "topic": "UX Research",
+    "keywords": ["user experience research", "ux research methods", "user interviews", "usability testing", "surveys and questionnaires", "persona development", "journey mapping", "what is ux research", "qualitative vs quantitative", "design research"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Music Production",
+    "keywords": ["music production for beginners", "how to make beats", "digital audio workstation daw", "ableton tutorial", "fl studio basics", "mixing and mastering", "audio recording", "synthesis basics", "music arrangement", "home studio setup"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Product Management",
+    "keywords": ["introduction to product management", "what does a product manager do", "product lifecycle", "product roadmap", "writing user stories", "agile product management", "mvp development", "market research for pm", "product strategy", "becoming a pm"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Systems Thinking",
+    "keywords": ["systems thinking basics", "introduction to systems thinking", "seeing the big picture", "feedback loops", "system dynamics", "leverage points", "complex systems", "holistic thinking", "thinking in systems", "interconnectedness"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Biostatistics",
+    "keywords": ["biostatistics", "biological statistics", "medical statistics", "biostatistics basics", "biostatistics fundamentals", "statistical methods biology", "biostatistical analysis", "health statistics", "biostatistics concepts", "statistical biology"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Epidemiology",
+    "keywords": ["epidemiology", "disease patterns", "public health epidemiology", "epidemiology basics", "epidemiology fundamentals", "disease transmission", "epidemiological methods", "outbreak investigation", "epidemiology concepts", "population health studies"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Pharmacology",
+    "keywords": ["pharmacology", "drug science", "pharmacology basics", "pharmacology fundamentals", "drug mechanisms", "pharmacological principles", "medication science", "drug action", "pharmacology concepts", "drug therapy"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Pathology",
+    "keywords": ["pathology", "disease pathology", "pathology basics", "pathology fundamentals", "disease mechanisms", "pathological processes", "clinical pathology", "pathology concepts", "disease study", "pathological changes"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Biotechnology",
+    "keywords": ["biotechnology", "biotech", "biotechnology basics", "biotechnology fundamentals", "biotech applications", "biotechnology concepts", "applied biology", "biotech methods", "biotechnology techniques", "biological technology"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Bioinformatics",
+    "keywords": ["bioinformatics", "computational biology", "bioinformatics basics", "bioinformatics fundamentals", "biological data analysis", "bioinformatics tools", "genomic analysis", "bioinformatics methods", "bioinformatics concepts", "biological computing"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Systems Biology",
+    "keywords": ["systems biology", "biological systems", "systems biology basics", "systems biology fundamentals", "systems approach biology", "biological networks", "systems biology concepts", "integrative biology", "systems biology methods", "complex biological systems"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Genomics",
+    "keywords": ["genomics", "genome science", "genomics basics", "genomics fundamentals", "genome analysis", "genomic sequencing", "genomics concepts", "genome studies", "genomic research", "genome mapping"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Proteomics",
+    "keywords": ["proteomics", "protein analysis", "proteomics basics", "proteomics fundamentals", "protein expression", "proteomics methods", "proteomics concepts", "protein studies", "proteome analysis", "protein profiling"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Virology",
+    "keywords": ["virology", "virus science", "virology basics", "virology fundamentals", "viral biology", "virus structure", "virology concepts", "viral infections", "virology methods", "virus studies"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Marine Biology",
+    "keywords": ["marine biology", "ocean biology", "marine life", "marine biology basics", "marine biology fundamentals", "ocean organisms", "marine ecosystems", "marine biology concepts", "sea life biology", "aquatic biology"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Environmental Science",
+    "keywords": ["environmental science", "environmental studies", "environmental science basics", "environmental science fundamentals", "ecology and environment", "environmental systems", "environmental science concepts", "environmental issues", "environmental biology", "ecosystem science"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Climate Science",
+    "keywords": ["climate science", "climatology", "climate change", "climate science basics", "climate science fundamentals", "climate systems", "climate science concepts", "global warming", "climate dynamics", "climate research"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Geophysics",
+    "keywords": ["geophysics", "earth physics", "geophysics basics", "geophysics fundamentals", "geophysical methods", "earth science physics", "geophysics concepts", "seismology", "geophysical studies", "physical earth"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Geology",
+    "keywords": ["geology", "earth science", "geology basics", "geology fundamentals", "rocks and minerals", "geological processes", "geology concepts", "earth structure", "geological studies", "earth geology"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Astronomy",
+    "keywords": ["astronomy", "astronomical science", "astronomy basics", "astronomy fundamentals", "celestial objects", "astronomy concepts", "observational astronomy", "stars and planets", "astronomy studies", "space astronomy"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Cosmology",
+    "keywords": ["cosmology", "universe science", "cosmology basics", "cosmology fundamentals", "origin of universe", "cosmological theory", "cosmology concepts", "big bang theory", "cosmological studies", "universe structure"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Aeronautical Engineering",
+    "keywords": ["aeronautical engineering", "aerospace engineering", "aircraft engineering", "aeronautical engineering basics", "aeronautical engineering fundamentals", "flight mechanics", "aircraft design", "aeronautical concepts", "aviation engineering", "aeronautics"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Civil Engineering",
+    "keywords": ["civil engineering", "structural engineering", "civil engineering basics", "civil engineering fundamentals", "infrastructure engineering", "civil engineering concepts", "construction engineering", "civil engineering principles", "building engineering", "civil design"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Chemical Engineering",
+    "keywords": ["chemical engineering", "process engineering", "chemical engineering basics", "chemical engineering fundamentals", "chemical processes", "chemical engineering concepts", "industrial chemistry", "chemical engineering principles", "chemical plant design", "reaction engineering"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Biomedical Engineering",
+    "keywords": ["biomedical engineering", "bioengineering", "medical engineering", "biomedical engineering basics", "biomedical engineering fundamentals", "medical devices", "biomedical engineering concepts", "biomedical technology", "biomedical engineering principles", "medical instrumentation"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Environmental Engineering",
+    "keywords": ["environmental engineering", "environmental engineering basics", "environmental engineering fundamentals", "pollution control", "environmental engineering concepts", "sustainable engineering", "environmental engineering principles", "waste management engineering", "water treatment", "environmental protection engineering"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Industrial Engineering",
+    "keywords": ["industrial engineering", "ie", "industrial engineering basics", "industrial engineering fundamentals", "process optimization", "industrial engineering concepts", "systems engineering", "industrial engineering principles", "production engineering", "manufacturing engineering"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Renewable Energy",
+    "keywords": ["renewable energy", "clean energy", "renewable energy basics", "renewable energy fundamentals", "solar wind energy", "renewable energy systems", "renewable energy concepts", "sustainable energy", "renewable power", "green energy"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Nanotechnology",
+    "keywords": ["nanotechnology", "nanotech", "nanotechnology basics", "nanotechnology fundamentals", "nanoscience", "nanotechnology concepts", "nanomaterials", "nanotechnology applications", "nano engineering", "molecular nanotechnology"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Information Theory",
+    "keywords": ["information theory", "communication theory", "information theory basics", "information theory fundamentals", "shannon theory", "information theory concepts", "data theory", "information theory principles", "coding theory", "information entropy"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Compiler Design",
+    "keywords": ["compiler design", "compilers", "compiler construction", "compiler design basics", "compiler design fundamentals", "compiler theory", "compiler design concepts", "compiler principles", "compiler development", "compiler optimization"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Computer Architecture",
+    "keywords": ["computer architecture", "computer organization", "computer architecture basics", "computer architecture fundamentals", "cpu architecture", "computer architecture concepts", "computer hardware design", "computer architecture principles", "processor design", "system architecture"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Parallel Computing",
+    "keywords": ["parallel computing", "parallel programming", "parallel computing basics", "parallel computing fundamentals", "concurrent computing", "parallel computing concepts", "parallel algorithms", "parallel processing", "parallel computing principles", "distributed parallel computing"],
+    "difficulty": 7
+  },
+  {
+    "topic": "High Performance Computing",
+    "keywords": ["high performance computing", "hpc", "supercomputing", "hpc basics", "hpc fundamentals", "high performance computing concepts", "hpc systems", "hpc applications", "computational performance", "parallel hpc"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Computer Graphics",
+    "keywords": ["computer graphics", "cg", "computer graphics basics", "computer graphics fundamentals", "graphics programming", "computer graphics concepts", "3d graphics", "computer graphics principles", "rendering", "graphics algorithms"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Human Computer Interaction",
+    "keywords": ["human computer interaction", "hci", "hci basics", "hci fundamentals", "user interaction design", "hci concepts", "interaction design", "hci principles", "usability", "human centered computing"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Software Testing",
+    "keywords": ["software testing", "testing", "qa", "software testing basics", "software testing fundamentals", "test automation", "software testing concepts", "software testing principles", "quality assurance", "software testing methods"],
+    "difficulty": 4
+  },
+  {
+    "topic": "Software Architecture",
+    "keywords": ["software architecture", "system design", "software architecture basics", "software architecture fundamentals", "architectural patterns", "software architecture concepts", "software architecture principles", "system architecture design", "software structure", "architectural design"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Design Patterns",
+    "keywords": ["design patterns", "software design patterns", "design patterns basics", "design patterns fundamentals", "programming patterns", "design patterns concepts", "design patterns principles", "architectural patterns", "code patterns", "software patterns"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Functional Programming",
+    "keywords": ["functional programming", "fp", "functional programming basics", "functional programming fundamentals", "functional paradigm", "functional programming concepts", "functional programming principles", "functional languages", "immutable programming", "functional programming techniques"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Logic Programming",
+    "keywords": ["logic programming", "prolog", "logic programming basics", "logic programming fundamentals", "declarative programming", "logic programming concepts", "logic programming principles", "logic based programming", "logic programming languages", "constraint logic programming"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Theory of Computation",
+    "keywords": ["theory of computation", "computability theory", "automata theory", "theory of computation basics", "theory of computation fundamentals", "computational theory", "theory of computation concepts", "formal languages", "turing machines", "computational complexity theory"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Formal Methods",
+    "keywords": ["formal methods", "formal verification", "formal methods basics", "formal methods fundamentals", "formal specification", "formal methods concepts", "formal methods principles", "mathematical verification", "formal system design", "formal proof methods"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Numerical Methods",
+    "keywords": ["numerical methods", "numerical analysis", "numerical methods basics", "numerical methods fundamentals", "computational mathematics", "numerical methods concepts", "numerical algorithms", "numerical methods principles", "numerical computation", "numerical techniques"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Computational Geometry",
+    "keywords": ["computational geometry", "geometric algorithms", "computational geometry basics", "computational geometry fundamentals", "geometric computation", "computational geometry concepts", "computational geometry principles", "geometric data structures", "computational geometry methods", "algorithmic geometry"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Game Theory",
+    "keywords": ["game theory", "strategic thinking", "game theory basics", "game theory fundamentals", "game theory concepts", "game theory principles", "strategic games", "game theory economics", "decision theory games", "game theory applications"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Actuarial Science",
+    "keywords": ["actuarial science", "actuarial mathematics", "actuarial science basics", "actuarial science fundamentals", "risk assessment", "actuarial science concepts", "actuarial science principles", "insurance mathematics", "actuarial analysis", "actuarial methods"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Financial Mathematics",
+    "keywords": ["financial mathematics", "quantitative finance", "financial mathematics basics", "financial mathematics fundamentals", "mathematical finance", "financial mathematics concepts", "financial mathematics principles", "financial modeling", "financial mathematics methods", "quantitative methods finance"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Risk Management",
+    "keywords": ["risk management", "risk analysis", "risk management basics", "risk management fundamentals", "risk assessment", "risk management concepts", "risk management principles", "managing risks", "risk management strategies", "risk mitigation"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Derivatives Trading",
+    "keywords": ["derivatives", "derivatives trading", "options futures", "derivatives basics", "derivatives fundamentals", "derivative securities", "derivatives concepts", "derivatives markets", "financial derivatives", "derivatives instruments"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Portfolio Management",
+    "keywords": ["portfolio management", "investment portfolio", "portfolio management basics", "portfolio management fundamentals", "portfolio theory", "portfolio management concepts", "portfolio management strategies", "asset allocation", "portfolio optimization", "portfolio management principles"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Behavioral Economics",
+    "keywords": ["behavioral economics", "behavioral finance", "behavioral economics basics", "behavioral economics fundamentals", "economic psychology", "behavioral economics concepts", "behavioral economics principles", "decision making economics", "behavioral economics theory", "cognitive economics"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Algebraic Geometry",
+    "keywords": ["algebraic geometry intro", "affine varieties", "projective space", "schemes and sheaves", "elliptic curves", "grobner bases", "commutative algebra", "intersection of algebra and geometry", "advanced algebraic math", "riemann-roch theorem"],
+    "difficulty": 10
+  },
+  {
+    "topic": "Computational Geometry",
+    "keywords": ["computational geometry algorithms", "convex hulls", "voronoi diagrams", "delaunay triangulation", "geometric data structures", "robotics path planning", "gis algorithms", "computer graphics geometry", "geometric searching", "polygon triangulation"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Ergodic Theory",
+    "keywords": ["ergodic theory basics", "dynamical systems", "measure-preserving systems", "poincare recurrence theorem", "ergodic hypothesis", "statistical mechanics math", "chaos theory", "symbolic dynamics", "lyapunov exponents", "birkhoff's ergodic theorem"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Model Theory",
+    "keywords": ["model theory basics", "mathematical logic", "structures and theories", "compactness theorem", "quantifier elimination", "definable sets", "tarski's theory", "non-standard analysis", "foundations of math", "first-order logic models"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Automata Theory",
+    "keywords": ["automata theory basics", "finite automata", "dfa nfa", "regular expressions", "context-free grammars", "pushdown automata", "turing machines", "theory of computation", "formal languages", "chomsky hierarchy"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Site Reliability Engineering (SRE)",
+    "keywords": ["sre principles", "site reliability engineering", "google sre book", "slos slis slas", "error budgets", "monitoring and alerting", "incident response", "postmortems", "eliminating toil", "devops vs sre"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Federated Learning",
+    "keywords": ["federated learning explained", "what is federated learning", "decentralized machine learning", "privacy-preserving ai", "on-device training", "google federated learning", "fl basics", "model aggregation", "secure multi-party computation", "distributed ml"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Database Indexing",
+    "keywords": ["how database indexes work", "database indexing for beginners", "b-trees", "sql query optimization", "database performance tuning", "clustered vs non-clustered", "hash indexes", "when to use indexes", "explain plan", "database administration"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Explainable AI (XAI)",
+    "keywords": ["explainable ai explained", "xai techniques", "interpretable machine learning", "lime and shap", "black box models", "ai transparency", "model interpretation", "feature importance", "trustworthy ai", "ai ethics"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Systems Engineering",
+    "keywords": ["systems engineering basics", "what is systems engineering", "systems lifecycle", "requirements analysis", "systems architecture", "verification and validation", "systems integration", "model-based systems engineering", "mbse", "managing complex projects"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Soft Matter Physics",
+    "keywords": ["soft matter physics intro", "physics of polymers", "colloids and gels", "liquid crystals", "biological physics", "self-assembly", "condensed matter physics", "statistical mechanics of soft matter", "rheology", "physics of everyday materials"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Reliability Engineering",
+    "keywords": ["reliability engineering basics", "failure analysis", "mean time between failures", "mtbf", "fault tree analysis", "failure modes and effects analysis", "fmea", "weibull analysis", "product reliability", "quality engineering"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Human Factors Engineering",
+    "keywords": ["human factors and ergonomics", "what is human factors", "user-centered design", "human-computer interaction", "cognitive ergonomics", "usability engineering", "designing for safety", "human performance", "workplace design", "man-machine systems"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Optical Engineering",
+    "keywords": ["optical engineering basics", "lens design", "zemax tutorial", "laser systems", "fiber optics communication", "photonics engineering", "radiometry and photometry", "optical instruments", "aberration theory", "physical optics design"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Green Chemistry",
+    "keywords": ["green chemistry principles", "sustainable chemistry", "atom economy", "benign solvents", "renewable feedstocks", "catalysis in green chem", "environmental chemistry", "designing safer chemicals", "waste prevention", "chemistry for sustainability"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Cardiology",
+    "keywords": ["cardiology basics", "introduction to the heart", "ecg interpretation", "ekg basics", "cardiovascular system", "heart disease", "arrhythmias explained", "cardiac anatomy and physiology", "echocardiography", "clinical cardiology"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Anesthesiology",
+    "keywords": ["anesthesiology for beginners", "types of anesthesia", "general anesthesia", "pharmacology of anesthetics", "airway management", "pain management", "physiology for anesthesia", "operating room procedures", "regional anesthesia", "clinical anesthesiology"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Primatology",
+    "keywords": ["introduction to primatology", "study of primates", "primate behavior", "human evolution", "ape and monkey studies", "jane goodall", "primate conservation", "lemurs lorises tarsiers", "primate social systems", "anthropology"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Historiography",
+    "keywords": ["historiography explained", "what is historiography", "the study of history writing", "historical methods", "great historians", "schools of history", "philosophy of history", "primary vs secondary sources", "historical theory", "postmodern history"],
+    "difficulty": 9
+  },
+  {
+    "topic": "Aesthetics (Philosophy)",
+    "keywords": ["philosophy of art", "aesthetics basics", "what is beauty", "plato aristotle on art", "kant's critique of judgment", "philosophy of music", "defining art", "the sublime", "art and morality", "aesthetic experience"],
+    "difficulty": 8
+  },
+  {
+    "topic": "Contract Law",
+    "keywords": ["contract law basics", "elements of a contract", "offer and acceptance", "consideration", "breach of contract", "legal remedies", "business law contracts", "understanding contracts", "contract formation", "legal studies"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Urban Sociology",
+    "keywords": ["urban sociology intro", "sociology of cities", "the chicago school", "urbanization", "gentrification", "suburbanization", "global cities", "urban inequality", "community studies", "social life in the city"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Go-to-Market Strategy",
+    "keywords": ["go-to-market strategy", "gtm plan", "product launch strategy", "market entry strategy", "sales and marketing alignment", "target audience", "product marketing", "business strategy", "gtm framework", "launching a new product"],
+    "difficulty": 7
+  },
+  {
+    "topic": "Typography",
+    "keywords": ["typography for beginners", "what is typography", "kerning tracking leading", "serif vs sans-serif", "font pairing", "readability and legibility", "typographic hierarchy", "graphic design typography", "rules of typography", "choosing fonts"],
+    "difficulty": 5
+  },
+  {
+    "topic": "Supply Chain Management",
+    "keywords": ["supply chain management basics", "what is scm", "logistics and supply chain", "procurement", "inventory management", "operations management", "supply chain analytics", "global supply chains", "just-in-time", "lean manufacturing"],
+    "difficulty": 6
+  },
+  {
+    "topic": "Memory Techniques",
+    "keywords": ["how to improve memory", "memory palace technique", "method of loci", "mnemonic devices", "spaced repetition system", "active recall", "memorization strategies", "learning how to learn", "boosting memory", "study techniques"],
+    "difficulty": 4
+  }
+]
+ 

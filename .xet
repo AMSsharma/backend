@@ -1,0 +1,13 @@
+{
+    "pkl_models": {
+        "type": "regex",
+        "filepath": ".",
+        "flags": null,
+        "wrapper": null,
+        "presets": null,
+        "ssh": null,
+        "regex": ".*\\.pkl$",
+        "group": null,
+        "occurences": ":"
+    }
+}
